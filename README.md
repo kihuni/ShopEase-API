@@ -2,7 +2,7 @@
 
 **Shopease-API** is a scalable and secure **e-commerce backend API** built with **Django** and **Django REST Framework (DRF)**. It powers seamless online shopping with essential features like user authentication, product listings, cart management, order processing, and admin controls.
 
-The project adopts modern backend practices like **modular architecture**, **JWT-based authentication**, and **token blacklisting**. It is designed to serve as a foundation for e-commerce platforms, developer portfolios, or client-ready products.
+The project adopts modern backend practices like **modular architecture**, **JWT-based authentication**, and **token blacklisting**.
 
 ---
 
