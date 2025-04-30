@@ -35,7 +35,7 @@ The project adopts modern backend practices like **modular architecture**, **JWT
 - **Secure logout** with **refresh token blacklisting**.
 - Token expiration and refresh handling (access & refresh).
 
-### 🛒 E-Commerce Core (Planned & In Progress)
+### 🛒 E-Commerce Core (In Progress)
 - **Product Management**:
   - CRUD for products with images, descriptions, price, and stock.
   - Search, filtering, and sorting by category, price, etc.
@@ -112,12 +112,6 @@ Endpoint	Method	Description
 /api/token/refresh/	POST	Get new access token
 
 ```
-
-📌 All protected routes require Authorization: Bearer <access_token>
-
-📦 Product Endpoints (Planned)
-🛒 Cart Endpoints (Planned)
-📦 Order Endpoints (Planned)
 
 ## 🛠️ Usage
 
